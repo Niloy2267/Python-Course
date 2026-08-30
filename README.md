@@ -92,23 +92,6 @@ This repository is suitable for:
 - Polymorphism  
 - Operator overloading  
 
-### Chapter 12: Advanced Python Part 1
-- Newly added Python features  
-- Walrus operator  
-- Advanced type hints  
-- match-case  
-- Dictionary merge and update operators  
-- Exception handling improvements  
-- global keyword and enumerate  
-- List comprehensions  
-
-### Chapter 13: Advanced Python Part 2
-- Virtual environments  
-- Lambda functions  
-- String join and format methods  
-- Functional programming: map, filter, and reduce  
-
----
 
 ## Projects
 
